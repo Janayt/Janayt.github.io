@@ -11,7 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Pandas 常见函数
+pd.pivot(index=，columns=，values=)，index为
+pd.melt(id_vars=，value_vars=，var_name=，value_name=，ignore_index=)
+id_vars：不需要被转换的列	；value_vars：需要转换的列名，如果剩下的列全部都要转换，就不用写了。var_name和value_name是自定义设置对应的列名。col_level :如果列是MultiIndex，则使用此级别。
+
 ## Header 2
 ### Header 3
 
