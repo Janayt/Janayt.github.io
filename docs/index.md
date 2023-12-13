@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 你好，曾惠莹，这是属于我们的网站
 
 You can use the [editor on GitHub](https://github.com/Janayt/Janayt.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
